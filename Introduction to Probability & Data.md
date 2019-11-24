@@ -1,9 +1,11 @@
-##### Table of Contents  
-[Main Title](#Main Title)  
-[second title](#second title)  
+- [Main Title](#main-title)
+  * [second title](#second-title)
+    + [third title](#third-title)
 
-<a name="Main Title"/>
-## Main Title
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
 
 
 # Main Title
@@ -12,3 +14,5 @@
 
 * somethin1
 * something 2
+
+### third title
